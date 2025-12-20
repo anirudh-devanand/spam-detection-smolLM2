@@ -1,0 +1,19 @@
+[project]
+name = "cpen455-project-2025w1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.8.0",
+    "huggingface-hub>=0.20.0",
+    "safetensors>=0.4.0",
+    "gpustat>=1.1.1",
+    "dotenv>=0.9.9",
+    "numpy>=2.3.3",
+    "rich>=14.2.0",
+    "bidict>=0.23.1",
+    "einops>=0.8.1",
+    "wandb>=0.22.2",
+    "pandas>=2.3.3",
+]

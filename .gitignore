@@ -1,0 +1,9 @@
+*__pycache__
+*html
+cache/
+SmolLM2-135M-Instruct/
+*.egg-info/
+.venv/
+.uv_cache/
+wandb/
+examples/ckpts/bayesian_trained_data_synth.pt
