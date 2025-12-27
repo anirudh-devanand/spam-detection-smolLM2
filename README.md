@@ -1,11 +1,6 @@
 # Spam vs Ham Classification with Bayes Inverse + SmolLM2
 
-This project explores **spam vs. ham email classification** using a **Bayes inverse classifier** on top of **SmolLM2-135M**. I evaluate three approaches—**zero-shot**, **naive prompting**, and **full fine-tuning**—and improve generalization using **label-aware data synthesis**, **weight decay**, and **gradient clipping**.
-
-> Course: CPEN 455 (UBC)  
-> Author: Anirudh Devanand
-
----
+This project explores **spam vs. ham email classification** using a **Bayes inverse classifier** on top of **SmolLM2-135M**. I evaluate three approaches - **zero-shot**, **naive prompting**, and **full fine-tuning** - and improve generalization using **label-aware data synthesis**, **weight decay**, and **gradient clipping**.
 
 ## Overview
 
